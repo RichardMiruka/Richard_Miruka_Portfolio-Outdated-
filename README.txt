@@ -22,4 +22,4 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/richardmiruka/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		Responsive Tools (github.com/richardmiruka/responsive-tools)
